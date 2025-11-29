@@ -1,2 +1,2 @@
 # CLASH_manuscript
-Current near-submission draft of the CLASH manuscript, with ongoing updates to figures and final polishing.
+This repository contains the substantially complete, pre-submission draft of my "CLASH (Chromatin Loop Across-sample Score Harmonizer) Quantifies a Two-Factor Model Linking Genetic and Epigenetic Variation, CTCF Occupancy, and Chromatin Loop Strength" manuscript. It is shared here to support PhD admission review. The scientific content is finalized and the only remaining work prior to preprint and journal submission is producing journal-quality figures and final layout polishing.
